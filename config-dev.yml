@@ -1,1 +1,2 @@
-开发环境配置config
+config:
+  info: springcloud config test version = 1
